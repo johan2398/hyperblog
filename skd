@@ -1,0 +1,25 @@
+[33mcommit 805fd830bd31a5cf4715ddc2d8e696ff0fed46a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Johan Casagua <scasagua@geovictoria.com>
+Date:   Mon Jul 19 19:22:14 2021 -0500
+
+    Agregamos el cargo de la persona
+    
+    La persona es Johan
+
+[33mcommit 64234f36641940ede5ea57ebeec79b9c41235c76[m
+Author: Johan Casagua <scasagua@geovictoria.com>
+Date:   Mon Jul 19 19:20:58 2021 -0500
+
+    Agregamos un cambio a su estatura
+
+[33mcommit 190bf680edb0dd60e3eca41bdcbc849c262ca45a[m
+Author: Johan Casagua <scasagua@geovictoria.com>
+Date:   Mon Jul 19 18:59:48 2021 -0500
+
+    Cambios al archivo de historia para poner el lugar exacto de nacimiento
+
+[33mcommit 8ffd4bba1d5b9dd23f4d15d7e80c6457410bae50[m
+Author: Sebastian Casagua <scasagua@geovictoria.com>
+Date:   Mon Jul 19 18:53:45 2021 -0500
+
+    Este es el commit de creación del archivo
